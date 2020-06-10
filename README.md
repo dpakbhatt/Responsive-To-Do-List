@@ -1,8 +1,8 @@
 # Respnsive-To-Do-List
 ```
-They list everything that you have to do, with the most important tasks at the top of the list, and the 
-least important tasks at the bottom. By keeping such a list, you makesure that your tasks are written down
-all in one place so you don't forget anything important. 
+They list everything that you have to do, with the most important tasks at the top of the list, and the least 
+important tasks at the bottom. By keeping such a list, you makesure that your tasks are written down all in one 
+place so you don't forget anything important. 
 ```
 > If any task have been done then it will be removed easily from the list by clicking on the X button.
 
