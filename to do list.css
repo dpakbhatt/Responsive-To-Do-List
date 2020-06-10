@@ -1,0 +1,73 @@
+h1 {
+    color: black;
+}
+
+body {
+	background: #FDEDEC ;
+}
+
+.rem {
+    margin-left: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+	font-size: 10px;
+	border-radius: 5px;
+}
+
+.rem:hover {
+	background-color: red;
+}
+
+.list {
+	background: #FDFEFE;
+	display: block;
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 500px;
+	height: auto;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+
+.boss{
+	display: block;
+	margin-left: 28%;
+}
+
+@media (max-width: 600px){
+.rem {
+    margin-left: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+	font-size: 10px;
+	border-radius: 5px;
+}
+
+.rem:hover {
+	background-color: red;
+}
+
+.list {
+	background: #FDFEFE;
+	display: block;
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+
+.boss{
+	display: block;
+	margin-left: 14%;
+}
+}
